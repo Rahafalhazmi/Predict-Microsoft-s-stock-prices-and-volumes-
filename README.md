@@ -7,3 +7,4 @@ In this project, I Predict Microsoft's stock prices and volumes in the next two 
 ### Table of content
 - Predict Microsoft's stock prices.ipynb
 - Predict Microsoft's stock prices.html
+- Microsoft's stock project.pdf
